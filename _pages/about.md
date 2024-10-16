@@ -30,7 +30,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 # 📝 Publications (Article)
 
 <div class='paper-box'>
-  <div class='paper-box-image' style="display: flex; justify-content: space-between;">
+  <div class='paper-box-image' style="display: flex">
     <div>
       <img src='images/Patterns_cover.png' alt="sym" width="50%">
       <img src='images/Patterns_GA.png' alt="sym" width="50%">
