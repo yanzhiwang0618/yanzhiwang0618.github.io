@@ -21,7 +21,7 @@ I'm **Yanzhi Wang (王衍之)**, a third year PHD student at the [College of Eng
 
 **Recently, my research centers on advancing the interpretability of data science within energy systems.**  I am particularly interested in leveraging AI and data-driven methodologies to implement end-to-end optimization. My current work emphasizes enhancing the reliability and efficiency of energy systems under uncertainty through data-centric decision-making.
 
-I am actively seeking academic exchanges for next year. You can find my CV here: [Yanzhi Wang's Resume]()
+I am actively seeking academic exchanges for next year. You can find my CV here: [Resume]()
 
 
 # 🔥 News
@@ -75,8 +75,9 @@ An End-to-End Strategy for Power Systems](), **Yanzhi Wang**, Jianxiao Wang\*, J
 # 🎖 Honors and Awards
 - *2024.10* The Youth Talent Support Program of the China Association for Science and Technology (Doctoral Program) 
 - *2024.09* National Scholarship
-- *2024.06* Wei-Ming PhD Scholars (One of 13 recipients selected university-wide.)
-- *2024.05* Academic Rising Star (One of 5 recipients selected college-wide.)
+- *2024.06* Wei-Ming PhD Scholars (One of 13 recipients selected university-wide)
+- *2024.05* Academic Rising Star (One of 5 recipients selected college-wide)
+- *2022.01* Outstanding Undergraduate Research Award (College level)
 
 # 📖 Educations
 - *2022.09 - now*, **Ph.D. in Industrial and Systems Engineering** (*GPA=3.75*), College of Engineering, Peking University, Beijing, China.
