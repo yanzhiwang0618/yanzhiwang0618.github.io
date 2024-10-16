@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third year PHD student from [College of Engineering](https://www.coe.pku.edu.cn), [Peking University](https://www.pku.edu.cn). I am very fortune to be advised by [Prof. Jie Song](https://www.coe.pku.edu.cn/teaching/industrial/9972.html) and [Prof. Jianxiao Wang](http://bda.pku.edu.cn/info/1082/2535.htm). My research interest include data centric AI, data-driven optimization, energy systems and uncertainty estimation.
+I'm a third year PHD student at the [College of Engineering](https://www.coe.pku.edu.cn), [Peking University](https://www.pku.edu.cn), fortunate to be advised by [Prof. Jie Song](https://www.coe.pku.edu.cn/teaching/industrial/9972.html) and [Prof. Jianxiao Wang](http://bda.pku.edu.cn/info/1082/2535.htm). My research interests include **data centric AI**, **data-driven optimization**, **energy systems** and **uncertainty estimation**. You can find my [Google Scholar](https://scholar.google.com/citations?user=ohvS_NAAAAAJ&hl=en) profile here..
 
-Recently, my research centers on advancing the interpretability of data science within energy systems. I am particularly interested in leveraging AI and other data-driven methodologies to implement end-to-end optimization, with a recent focus on enhancing the reliability and efficiency of energy systems under uncertainty through data-centric decision-making.
+**Recently, my research centers on advancing the interpretability of data science within energy systems.**  I am particularly interested in leveraging AI and data-driven methodologies to implement end-to-end optimization. My current work emphasizes enhancing the reliability and efficiency of energy systems under uncertainty through data-centric decision-making.
 
-You can find my CV here: [Yanzhi Wang's Resume]()
+I am actively seeking academic exchanges for next year. You can find my CV here: [Yanzhi Wang's Resume]()
 
 
 # 🔥 News
