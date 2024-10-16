@@ -30,7 +30,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PATTERNS</div><img src='images/Patterns_GA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PATTERNS</div><img src='images/Patterns_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unveiling value patterns via deep reinforcement learning in heterogeneous data analytics](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
