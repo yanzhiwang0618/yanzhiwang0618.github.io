@@ -32,8 +32,8 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
     <div>
-      <img src='images/Patterns_cover.png' alt="sym" width="30%">
-      <img src='images/Patterns_GA.png' alt="sym" width="30%">
+      <img src='images/Patterns_cover.png' alt="sym" width="45%">
+      <img src='images/Patterns_GA.png' alt="sym" width="50%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -61,26 +61,29 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 # 📝 Manuscripts under submission 
 
-- **[IEEE Transactions on Industrial Informatics]** [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach], **Yanzhi Wang#**, Jianxiao Wang, Jie Song*
+- **[IEEE Transactions on Industrial Informatics]** [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach](), **Yanzhi Wang#**, Jianxiao Wang, Jie Song*
 
-- **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization], **Yanzhi Wang#**, Jianxiao Wang*, Haoran Zhang, Jie Song*
+- **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization](), **Yanzhi Wang#**, Jianxiao Wang*, Haoran Zhang, Jie Song*
 
 - **[Engineering]** [Data-Centric Optimization: 
-An End-to-End Strategy for Power Systems], **Yanzhi Wang#**, Jianxiao Wang*, Jie Song*
+An End-to-End Strategy for Power Systems](), **Yanzhi Wang#**, Jianxiao Wang*, Jie Song*
 
-- **[IEEE Transactions on Industrial Informatics]** [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection], YiHang Jin, **Yanzhi Wang**, Jianxiao Wang*, et al.
+- **[IEEE Transactions on Industrial Informatics]** [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection](), YiHang Jin, **Yanzhi Wang**, Jianxiao Wang*, et al.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* The Youth Talent Support Program of the China Association for Science and Technology (Doctoral Program) 
+- *2024.09* National Scholarship
+- *2024.06* Wei-Ming PhD Scholars (One of 13 recipients selected university-wide.)
+- *2024.05* Academic Rising Star (One of 5 recipients selected college-wide.)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, Ph.D. in Industrial and Systems Engineering, College of Engineering, Peking University, Beijing, China.
+- *2019.09 - 2022.07*, B.E. in Economics, National School of Development, Peking University, Beijing, China.
+- *2018.09 - 2022.07*, B.E. in Theoretical and Applied Mechanics, College of Engineering, Peking University, Beijing, China. 
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+- *2022.04*, Physician word-of-mouth ratings in complex models, 2022 International Conference for Chinese Scholars in Industrial Engineering
+  
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.07 - 2022.08*, [Beijing International Big Data Exchange](), China.
