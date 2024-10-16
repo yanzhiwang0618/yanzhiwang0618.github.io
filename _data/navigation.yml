@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications(articles)"
+    url: "/#-publications(article)"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
