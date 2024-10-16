@@ -42,11 +42,22 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 - This method explores inherent and transferable value patterns across datasets.
 </div>
 
-- **[IEEE Transactions on Industry Applicationns]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718)
+- **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718), **Yanzhi Wang#**, Jie Song*
 
-- **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios (Cover of the July 2024 Issue)](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml)
+- **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios (Cover of the July 2024 Issue)](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang#**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song*
 
-- **[CASE 2022]** [What drives patients to choose a physician online? A study based on tree models and SHAP values](https://ieeexplore.ieee.org/abstract/document/9926467)
+- **[CASE 2022]** [What drives patients to choose a physician online? A study based on tree models and SHAP values](https://ieeexplore.ieee.org/abstract/document/9926467), **Yanzhi Wang#**, Yue Zhao, Jie Song*, Hongju Liu
+
+# 📝 Manuscripts under submission 
+
+- **[IEEE Transactions on Industrial Informatics]** [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach], **Yanzhi Wang#**, Jianxiao Wang, Jie Song*
+
+- **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization], **Yanzhi Wang#**, Jianxiao Wang*, Haoran Zhang, Jie Song*
+
+- **[Engineering]** [Data-Centric Optimization: 
+An End-to-End Strategy for Power Systems], **Yanzhi Wang#**, Jianxiao Wang*, Jie Song*
+
+- **[IEEE Transactions on Industrial Informatics]** [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection], YiHang Jin, **Yanzhi Wang**, Jianxiao Wang*, et al.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
