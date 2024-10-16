@@ -28,10 +28,10 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Publications (Article)
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image' style="display: flex; justify-content: space-between;">
     <div><div class="badge">
       PATTERNS
     </div>
@@ -48,12 +48,17 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 - We introduce a learning-based paradigm for data valuation across scenarios.
 - Our study identifies varying effects of high/low-quality data on model efficacy.
 - This method explores inherent and transferable value patterns across datasets.
+- Analysis reveals data value’s geographic sensitivity in nationwide power forecasts.
 </div>
 </div>
 
 - **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718), **Yanzhi Wang#**, Jie Song*
 
-- **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios (Cover of the July 2024 Issue)](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang#**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song*
+- **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang#**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song*
+
+# 📝 Publications (Conference)
+
+- **[IAS 2024]** [Feature Valuation Toward Improved State Estimation for Automotive Lithium-ion Battery](), **Yanzhi Wang#**, Jianxiao Wang*, Jie Song
 
 - **[CASE 2022]** [What drives patients to choose a physician online? A study based on tree models and SHAP values](https://ieeexplore.ieee.org/abstract/document/9926467), **Yanzhi Wang#**, Yue Zhao, Jie Song*, Hongju Liu
 
