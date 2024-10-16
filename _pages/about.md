@@ -30,19 +30,23 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PATTERNS</div><img src='images/Patterns_cover.png' alt="sym" width="100%"><img src='images/Patterns_GA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PATTERNS</div><img src='images/Patterns_cover.png' alt="sym" width="50%"><img src='images/Patterns_GA.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unveiling value patterns via deep reinforcement learning in heterogeneous data analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
 
 **Yanzhi Wang#**, Jianxiao Wang*, Feng Gao, Jie Song*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+- We introduce a learning-based paradigm for data valuation across scenarios.
+- Our study identifies varying effects of high/low-quality data on model efficacy.
+- This method explores inherent and transferable value patterns across datasets.
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **[IEEE Transactions on Industry Applicationns]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718)
+
+- **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios (Cover of the July 2024 Issue)](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml)
+
+- **[CASE 2022]** [What drives patients to choose a physician online? A study based on tree models and SHAP values](https://ieeexplore.ieee.org/abstract/document/9926467)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
