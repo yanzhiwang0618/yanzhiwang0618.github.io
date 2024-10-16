@@ -25,23 +25,20 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2024.10*: &nbsp;🎉🎉 Going to Seattle for INFORMS 2024!
+  
 # 📝 Publications (Article)
 
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex; justify-content: space-between;">
-    <div><div class="badge">
-      PATTERNS
-    </div>
+    <div>
       <img src='images/Patterns_cover.png' alt="sym" width="50%">
       <img src='images/Patterns_GA.png' alt="sym" width="50%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-[Unveiling value patterns via deep reinforcement learning in heterogeneous data analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
+**[Patterns]**[Unveiling value patterns via deep reinforcement learning in heterogeneous data analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
 
 **Yanzhi Wang#**, Jianxiao Wang*, Feng Gao, Jie Song*
 
