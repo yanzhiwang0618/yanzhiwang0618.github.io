@@ -63,14 +63,14 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 # 📝 Manuscripts under submission 
 
-- **[IEEE Transactions on Industrial Informatics]** [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach](), **Yanzhi Wang**, Jianxiao Wang, Jie Song*
+- **[IEEE Transactions on Industrial Informatics]** [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach](), **Yanzhi Wang**, Jianxiao Wang, Jie Song* (Under Review)
 
-- **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization](), **Yanzhi Wang#**, Jianxiao Wang\*, Haoran Zhang, Jie Song\*
+- **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization](), **Yanzhi Wang#**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (Under Review)
 
 - **[Engineering]** [Data-Centric Optimization: 
-An End-to-End Strategy for Power Systems](), **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\*
+An End-to-End Strategy for Power Systems](), **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (In Preperation)
 
-- **[IEEE Transactions on Industrial Informatics]** [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection](), YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al.
+- **[IEEE Transactions on Industrial Informatics]** [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection](), YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (In Revision)
 
 # 🎖 Honors and Awards
 - *2024.10* The Youth Talent Support Program of the China Association for Science and Technology (Doctoral Program) 
@@ -79,9 +79,9 @@ An End-to-End Strategy for Power Systems](), **Yanzhi Wang**, Jianxiao Wang\*, J
 - *2024.05* Academic Rising Star (One of 5 recipients selected college-wide.)
 
 # 📖 Educations
-- *2022.09 - now*, Ph.D. in Industrial and Systems Engineering (*GPA=3.75*), College of Engineering, Peking University, Beijing, China.
-- *2019.09 - 2022.07*, B.E. in Economics, National School of Development, Peking University, Beijing, China.
-- *2018.09 - 2022.07*, B.E. in Theoretical and Applied Mechanics (*GPA=3.62*), College of Engineering, Peking University, Beijing, China.
+- *2022.09 - now*, **Ph.D. in Industrial and Systems Engineering** (*GPA=3.75*), College of Engineering, Peking University, Beijing, China.
+- *2019.09 - 2022.07*, **B.E. in Economics**, National School of Development, Peking University, Beijing, China.
+- *2018.09 - 2022.07*, **B.E. in Theoretical and Applied Mechanics** (*GPA=3.62*), College of Engineering, Peking University, Beijing, China.
 - *2015.06 - 2018.07*, RDFZ, Beijing, China.
 
 # 🧩 Skills
