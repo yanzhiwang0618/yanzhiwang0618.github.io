@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third year PHD student at the [College of Engineering](https://www.coe.pku.edu.cn), [Peking University](https://www.pku.edu.cn), fortunate to be advised by [Prof. Jie Song](https://www.coe.pku.edu.cn/teaching/industrial/9972.html) and [Prof. Jianxiao Wang](http://bda.pku.edu.cn/info/1082/2535.htm). My research interests include **data centric AI**, **data-driven optimization**, **energy systems** and **uncertainty estimation**. You can find my [Google Scholar](https://scholar.google.com/citations?user=ohvS_NAAAAAJ&hl=en) profile here.
+I'm **Yanzhi Wang (王衍之)**, a third year PHD student at the [College of Engineering](https://www.coe.pku.edu.cn), [Peking University](https://www.pku.edu.cn), fortunate to be advised by [Prof. Jie Song](https://www.coe.pku.edu.cn/teaching/industrial/9972.html) and [Prof. Jianxiao Wang](http://bda.pku.edu.cn/info/1082/2535.htm). My research interests include **data centric AI**, **data-driven optimization**, **energy systems** and **uncertainty estimation**. You can find my [Google Scholar](https://scholar.google.com/citations?user=ohvS_NAAAAAJ&hl=en) profile here.
 
 **Recently, my research centers on advancing the interpretability of data science within energy systems.**  I am particularly interested in leveraging AI and data-driven methodologies to implement end-to-end optimization. My current work emphasizes enhancing the reliability and efficiency of energy systems under uncertainty through data-centric decision-making.
 
@@ -40,7 +40,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 **[Patterns]**[Unveiling value patterns via deep reinforcement learning in heterogeneous data analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
 
-**Yanzhi Wang#**, Jianxiao Wang\*, Feng Gao, Jie Song\*
+**Yanzhi Wang#**, Jianxiao Wang\*, Feng Gao, Jie Song\* (2024)
 
 - We introduce a learning-based paradigm for data valuation across scenarios.
 - Our study identifies varying effects of high/low-quality data on model efficacy.
@@ -49,9 +49,11 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 </div>
 </div>
 
-- **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718), **Yanzhi Wang**, Jie Song\*
+- **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718), **Yanzhi Wang**, Jie Song\* (2024)
 
-- **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song\*
+- **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song\* (2024)
+
+- **[Chinese Journal of Management Science (In Chinese)]** [Research on Data Value Based on Demand Forecast of Online Medical Platform](http://www.zgglkx.com/CN/10.16381/j.cnki.issn1003-207x.2022.0562), Zhao Yue, **Yanzhi Wang**, Jingsi Huang, Jie Song\*, Xuan He (2024)
 
 # 📝 Publications (Conference)
 
