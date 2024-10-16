@@ -32,8 +32,8 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
     <div>
-      <img src='images/Patterns_cover.png' alt="sym" width="45%">
-      <img src='images/Patterns_GA.png' alt="sym" width="50%">
+      <img src='images/Patterns_cover.png' alt="sym" width="40%">
+      <img src='images/Patterns_GA.png' alt="sym" width="55%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
