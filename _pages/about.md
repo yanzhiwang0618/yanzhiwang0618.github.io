@@ -40,7 +40,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 **[Patterns]**[Unveiling value patterns via deep reinforcement learning in heterogeneous data analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
 
-**Yanzhi Wang#**, Jianxiao Wang*, Feng Gao, Jie Song*
+**Yanzhi Wang#**, Jianxiao Wang\*, Feng Gao, Jie Song\*
 
 - We introduce a learning-based paradigm for data valuation across scenarios.
 - Our study identifies varying effects of high/low-quality data on model efficacy.
@@ -49,26 +49,26 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 </div>
 </div>
 
-- **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718), **Yanzhi Wang#**, Jie Song*
+- **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718), **Yanzhi Wang**, Jie Song\*
 
-- **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang#**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song*
+- **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song\*
 
 # 📝 Publications (Conference)
 
-- **[IAS 2024]** [Feature Valuation Toward Improved State Estimation for Automotive Lithium-ion Battery](), **Yanzhi Wang#**, Jianxiao Wang*, Jie Song
+- **[IAS 2024]** [Feature Valuation Toward Improved State Estimation for Automotive Lithium-ion Battery](), **Yanzhi Wang**, Jianxiao Wang*, Jie Song
 
-- **[CASE 2022]** [What drives patients to choose a physician online? A study based on tree models and SHAP values](https://ieeexplore.ieee.org/abstract/document/9926467), **Yanzhi Wang#**, Yue Zhao, Jie Song*, Hongju Liu
+- **[CASE 2022]** [What drives patients to choose a physician online? A study based on tree models and SHAP values](https://ieeexplore.ieee.org/abstract/document/9926467), **Yanzhi Wang**, Yue Zhao, Jie Song*, Hongju Liu
 
 # 📝 Manuscripts under submission 
 
-- **[IEEE Transactions on Industrial Informatics]** [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach](), **Yanzhi Wang#**, Jianxiao Wang, Jie Song*
+- **[IEEE Transactions on Industrial Informatics]** [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach](), **Yanzhi Wang**, Jianxiao Wang, Jie Song*
 
-- **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization](), **Yanzhi Wang#**, Jianxiao Wang*, Haoran Zhang, Jie Song*
+- **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization](), **Yanzhi Wang#**, Jianxiao Wang\*, Haoran Zhang, Jie Song\*
 
 - **[Engineering]** [Data-Centric Optimization: 
-An End-to-End Strategy for Power Systems](), **Yanzhi Wang#**, Jianxiao Wang*, Jie Song*
+An End-to-End Strategy for Power Systems](), **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\*
 
-- **[IEEE Transactions on Industrial Informatics]** [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection](), YiHang Jin, **Yanzhi Wang**, Jianxiao Wang*, et al.
+- **[IEEE Transactions on Industrial Informatics]** [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection](), YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al.
 
 # 🎖 Honors and Awards
 - *2024.10* The Youth Talent Support Program of the China Association for Science and Technology (Doctoral Program) 
@@ -77,11 +77,15 @@ An End-to-End Strategy for Power Systems](), **Yanzhi Wang#**, Jianxiao Wang*, J
 - *2024.05* Academic Rising Star (One of 5 recipients selected college-wide.)
 
 # 📖 Educations
-- *2022.09 - now*, Ph.D. in Industrial and Systems Engineering, College of Engineering, Peking University, Beijing, China.
+- *2022.09 - now*, Ph.D. in Industrial and Systems Engineering (*GPA=3.75*), College of Engineering, Peking University, Beijing, China.
 - *2019.09 - 2022.07*, B.E. in Economics, National School of Development, Peking University, Beijing, China.
-- *2018.09 - 2022.07*, B.E. in Theoretical and Applied Mechanics, College of Engineering, Peking University, Beijing, China. 
+- *2018.09 - 2022.07*, B.E. in Theoretical and Applied Mechanics (*GPA=3.62*), College of Engineering, Peking University, Beijing, China.
+- *2015.06 - 2018.07*, RDFZ, Beijing, China.
 
-
+# 🧩 Skills
+- Programming: *Python*,  *MATLAB*, *R*.
+- Academic Training: *Advanced Theory of Probability*, *Advanced Operations Research*, *Optimization Methods in Machine Learning*, *Reinforcement Learning*, *Distributed Optimization*, *Design and Analysis of Algorithms*, *Carbon Neutrality and Energy Internet*, etc.
+  
 # 💬 Invited Talks
 - *2022.04*, Physician word-of-mouth ratings in complex models, 2022 International Conference for Chinese Scholars in Industrial Engineering
   
