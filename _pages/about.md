@@ -30,7 +30,15 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PATTERNS</div><img src='images/Patterns_cover.png' alt="sym" width="50%"><img src='images/Patterns_GA.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">
+      PATTERNS
+    </div>
+      <img src='images/Patterns_cover.png' alt="sym" width="50%">
+      <img src='images/Patterns_GA.png' alt="sym" width="50%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 [Unveiling value patterns via deep reinforcement learning in heterogeneous data analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
@@ -40,6 +48,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 - We introduce a learning-based paradigm for data valuation across scenarios.
 - Our study identifies varying effects of high/low-quality data on model efficacy.
 - This method explores inherent and transferable value patterns across datasets.
+</div>
 </div>
 
 - **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718), **Yanzhi Wang#**, Jie Song*
