@@ -59,20 +59,32 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 # 📝 Publications (Conference)
 
-- **[IAS 2024]** [Feature Valuation Toward Improved State Estimation for Automotive Lithium-ion Battery](), **Yanzhi Wang**, Jianxiao Wang*, Jie Song
+- **[IAS 2024]** [Feature Valuation Toward Improved State Estimation for Automotive Lithium-ion Battery]()
 
-- **[CASE 2022]** [What drives patients to choose a physician online? A study based on tree models and SHAP values](https://ieeexplore.ieee.org/abstract/document/9926467), **Yanzhi Wang**, Yue Zhao, Jie Song*, Hongju Liu
+  **Yanzhi Wang**, Jianxiao Wang*, Jie Song
+
+- **[CASE 2022]** [What drives patients to choose a physician online? A study based on tree models and SHAP values](https://ieeexplore.ieee.org/abstract/document/9926467)
+
+  **Yanzhi Wang**, Yue Zhao, Jie Song*, Hongju Liu
 
 # 📝 Manuscripts under submission 
 
-- **[IEEE Transactions on Industrial Informatics]** [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach](), **Yanzhi Wang**, Jianxiao Wang, Jie Song* (Under Review)
+- **[IEEE Transactions on Industrial Informatics]** [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach]()
 
-- **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization](), **Yanzhi Wang#**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (Under Review)
+  **Yanzhi Wang**, Jianxiao Wang, Jie Song* (Under Review)
+
+- **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization]()
+
+  **Yanzhi Wang#**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (Under Review)
 
 - **[Engineering]** [Data-Centric Optimization: 
-An End-to-End Strategy for Power Systems](), **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (In Preperation)
+An End-to-End Strategy for Power Systems]()
 
-- **[IEEE Transactions on Industrial Informatics]** [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection](), YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (In Revision)
+  **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (In Preperation)
+
+- **[IEEE Transactions on Industrial Informatics]** [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection]()
+
+   YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (In Revision)
 
 # 🎖 Honors and Awards
 - *2024.10* The Youth Talent Support Program of the China Association for Science and Technology (Doctoral Program) 
