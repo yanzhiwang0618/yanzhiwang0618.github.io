@@ -23,12 +23,11 @@ I'm **Yanzhi Wang (王衍之)**, a third year PHD student at the [College of Eng
 
 I am actively seeking academic exchanges for next year. You can find my CV here: [Resume]()
 
-
 # 🔥 News
 - *2024.10*: &nbsp;🛩️🛩️ Going to Seattle for INFORMS 2024!
-  
-# 📝 Publications (Article)
+
 <span id="publications-article"></span>
+# 📝 Publications (Article)
 
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
