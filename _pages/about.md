@@ -28,6 +28,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 - *2024.10*: &nbsp;🛩️🛩️ Going to Seattle for INFORMS 2024!
   
 # 📝 Publications (Article)
+<span id="publications-article"></span>
 
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
