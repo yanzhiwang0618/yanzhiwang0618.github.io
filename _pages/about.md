@@ -40,7 +40,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 **[Patterns]**[Unveiling value patterns via deep reinforcement learning in heterogeneous data analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
 
-**Yanzhi Wang#**, Jianxiao Wang\*, Feng Gao, Jie Song\* (2024)
+**Yanzhi Wang**, Jianxiao Wang\*, Feng Gao, Jie Song\* (2024)
 
 - We introduce a learning-based paradigm for data valuation across scenarios.
 - Our study identifies varying effects of high/low-quality data on model efficacy.
@@ -75,7 +75,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 - **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization]()
 
-  **Yanzhi Wang#**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (Under Review)
+  **Yanzhi Wang**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (Under Review)
 
 - **[Engineering]** [Data-Centric Optimization: 
 An End-to-End Strategy for Power Systems]()
