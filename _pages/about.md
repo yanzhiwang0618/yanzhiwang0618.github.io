@@ -42,6 +42,8 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 **Yanzhi Wang**, Jianxiao Wang\*, Feng Gao, Jie Song\* (2024)
 
+[pdf]()
+
 - We introduce a learning-based paradigm for data valuation across scenarios.
 - Our study identifies varying effects of high/low-quality data on model efficacy.
 - This method explores inherent and transferable value patterns across datasets.
@@ -53,9 +55,15 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
   **Yanzhi Wang**, Jie Song\* (2024)
 
+  [pdf]()
+
 - **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song\* (2024)
 
+  [pdf]()
+
 - **[Chinese Journal of Management Science (In Chinese)]** [Research on Data Value Based on Demand Forecast of Online Medical Platform](http://www.zgglkx.com/CN/10.16381/j.cnki.issn1003-207x.2022.0562), Zhao Yue, **Yanzhi Wang**, Jingsi Huang, Jie Song\*, Xuan He (2024)
+
+  [pdf]()
 
 # 📝 Publications (Conference)
 
@@ -63,9 +71,13 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
   **Yanzhi Wang**, Jianxiao Wang*, Jie Song
 
+  [pdf]()
+
 - **[CASE 2022]** [What drives patients to choose a physician online? A study based on tree models and SHAP values](https://ieeexplore.ieee.org/abstract/document/9926467)
 
   **Yanzhi Wang**, Yue Zhao, Jie Song*, Hongju Liu
+
+  [pdf]()
 
 # 📝 Manuscripts under submission 
 
