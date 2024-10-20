@@ -21,7 +21,7 @@ I'm **Yanzhi Wang (王衍之)**, a third year PHD student at the [College of Eng
 
 **Recently, my research centers on advancing the interpretability of data science within energy systems.**  I am particularly interested in leveraging AI and data-driven methodologies to implement end-to-end optimization. My current work emphasizes enhancing the reliability and efficiency of energy systems under uncertainty through data-centric decision-making.
 
-I am actively seeking academic exchanges for next year. You can find my CV here: [Resume](../assets/Resume_yanzhiwang.pdf)
+I am actively seeking academic exchanges for next year. You can find my CV here: [Resume](../docs/Resume_yanzhiwang.pdf)
 
 # 🔥 News
 - *2024.10*: &nbsp;🛩️🛩️ Going to Seattle for INFORMS 2024!
