@@ -89,11 +89,11 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
   **Yanzhi Wang**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (Under Review in *Nexus*)
 
--  [Data-Centric Optimization: An End-to-End Strategy for Power Systems]()
+- [Data-Centric Optimization: An End-to-End Strategy for Power Systems]()
 
   **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (In Preperation)
 
-- **[IEEE Transactions on Industrial Informatics]** [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection]()
+- [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection]()
 
    YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (In Revision for *IEEE Transactions on Industrial Informatics*)
 
