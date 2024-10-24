@@ -81,22 +81,21 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 # 📝 Manuscripts under submission 
 
-- **[IEEE Transactions on Industrial Informatics]** [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach]()
+- [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach]()
 
-  **Yanzhi Wang**, Jianxiao Wang, Jie Song* (Under Review)
+  **Yanzhi Wang**, Jianxiao Wang, Jie Song* (Under Review in *IEEE Transactions on Industrial Informatics*)
 
-- **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization]()
+- [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization]()
 
-  **Yanzhi Wang**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (Under Review)
+  **Yanzhi Wang**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (Under Review in *Nexus*)
 
-- **[Engineering]** [Data-Centric Optimization: 
-An End-to-End Strategy for Power Systems]()
+-  [Data-Centric Optimization: An End-to-End Strategy for Power Systems]()
 
   **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (In Preperation)
 
 - **[IEEE Transactions on Industrial Informatics]** [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection]()
 
-   YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (In Revision)
+   YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (In Revision for *IEEE Transactions on Industrial Informatics*)
 
 # 🎖 Honors and Awards
 - *2024.10* The Youth Talent Support Program of the China Association for Science and Technology (Doctoral Program) 
