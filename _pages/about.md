@@ -38,7 +38,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
   </div>
 <div class='paper-box-text' markdown="1">
 
-**[Patterns]**[Unveiling value patterns via deep reinforcement learning in heterogeneous data analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
+**[Patterns]**[Unveiling Value Patterns via Deep Reinforcement Learning in Heterogeneous Data Analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
 
 **Yanzhi Wang**, Jianxiao Wang\*, Feng Gao, Jie Song\* (2024)
 
@@ -73,7 +73,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
   [[PDF]()]
 
-- **[CASE 2022]** [What drives patients to choose a physician online? A study based on tree models and SHAP values](https://ieeexplore.ieee.org/abstract/document/9926467)
+- **[CASE 2022]** [What Drives Patients to Choose a Physician Online? A Study based on Tree Models and SHAP Values](https://ieeexplore.ieee.org/abstract/document/9926467)
 
   **Yanzhi Wang**, Yue Zhao, Jie Song*, Hongju Liu
 
