@@ -83,15 +83,15 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 - [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach]()
 
-  **Yanzhi Wang**, Jianxiao Wang, Jie Song* (In Revision for in *IEEE Transactions on Industrial Informatics*)
+  **Yanzhi Wang**, Jianxiao Wang, Jie Song* (In Revision for *IEEE Transactions on Industrial Informatics*)
 
 - [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization]()
 
-  **Yanzhi Wang**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (Under Review in *Nexus*)
+  **Yanzhi Wang**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (In Revision for *Nexus*)
 
 - [Data-Centric Optimization: An End-to-End Strategy for Power Systems]()
 
-  **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (In Preperation)
+  **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (Submitted to *Engineering*)
 
 - [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection]()
 
