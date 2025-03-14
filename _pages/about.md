@@ -24,10 +24,41 @@ I'm **Yanzhi Wang (王衍之)**, a third year PHD student at the [College of Eng
 I am actively seeking academic exchanges for next year. You can find my CV here: [[PDF](../assets/Resumeyanzhiwang.pdf)]
 
 # 🔥 News
+- *2025.2*: &nbsp;🛩️🛩️ Heading to Princeton as a VSCR this autumn!
 - *2024.10*: &nbsp;🛩️🛩️ Going to Seattle for INFORMS 2024!
 
 <span id="publications-article"></span>
 # 📝 Publications (Article)
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="display: flex">
+    <div>
+      <img src='images/Nexus_1.png' alt="sym" width="40%">
+      <img src='images/Nexus_2.png' alt="sym" width="55%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+- **[Nexus]** [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization](https://www.cell.com/nexus/fulltext/S2950-1601(25)00004-X#editor-highlights-abstract)
+
+  **Yanzhi Wang**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (2025)
+
+  [[PDF](../assets/Nexus.pdf)]
+
+- Analyzed frameworks for integrating prediction and decision-making.
+- Compared advancements in multidimensional data-driven optimizations
+- Addressed challenges in data input, modeling, and decision processes
+- Highlighted applications in power systems, management, and control
+</div>
+</div>
+
+
+- **[IEEE Transactions on Industrial Informatics]** [Data Purification for Improved Power Dispatch Against Renewable Uncertainty](https://ieeexplore.ieee.org/document/10924409)
+
+  **Yanzhi Wang**, Jianxiao Wang, Jie Song\* (2025)
+
+  [[PDF](../assets/TII.pdf)]
+
 
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
@@ -80,14 +111,6 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
   [[PDF](../assets/CASE.pdf)]
 
 # 📝 Manuscripts under submission 
-
-- [Strategic Data Purification for Improved Power Dispatch Against Renewable Uncertainty: A Deep Reinforcement Learning Approach]()
-
-  **Yanzhi Wang**, Jianxiao Wang, Jie Song* (In Revision for *IEEE Transactions on Industrial Informatics*)
-
-- [Bridging Prediction and Decision: Advances and Challenges in Data-Driven Optimization]()
-
-  **Yanzhi Wang**, Jianxiao Wang\*, Haoran Zhang, Jie Song\* (In Revision for *Nexus*)
 
 - [Data-Centric Optimization: An End-to-End Strategy for Power Systems]()
 
