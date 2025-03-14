@@ -33,8 +33,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
     <div>
-      <img src='images/Nexus_1.png' alt="sym" width="40%">
-      <img src='images/Nexus_2.png' alt="sym" width="55%">
+      <img src='images/Nexus_1.png' alt="sym" width="80%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -52,12 +51,23 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image' style="display: flex">
+    <div>
+      <img src='images/TII.png' alt="sym" width="80%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
 
 - **[IEEE Transactions on Industrial Informatics]** [Data Purification for Improved Power Dispatch Against Renewable Uncertainty](https://ieeexplore.ieee.org/document/10924409)
 
   **Yanzhi Wang**, Jianxiao Wang, Jie Song\* (2025)
 
   [[PDF](../assets/TII.pdf)]
+
+</div>
+</div>
 
 
 <div class='paper-box'>
