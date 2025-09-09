@@ -108,11 +108,22 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 # 📝 Publications (Conference)
 
+<div class='paper-box'>
+  <div class='paper-box-image' style="display: flex">
+    <div>
+      <img src='images/IAS.png' alt="sym" width="80%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
 - **[IAS 2024]** [Feature Valuation Toward Improved State Estimation for Automotive Lithium-ion Battery]()
 
   **Yanzhi Wang**, Jianxiao Wang*, Jie Song
 
-  [[PDF]()]
+  [[PDF](../assets/IAS24.pdf)]
+
+</div>
+</div>
 
 - **[CASE 2022]** [What Drives Patients to Choose a Physician Online? A Study based on Tree Models and SHAP Values](https://ieeexplore.ieee.org/abstract/document/9926467)
 
