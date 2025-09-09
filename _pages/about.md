@@ -92,11 +92,23 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image' style="display: flex">
+    <div>
+      <img src='images/figure_1.jpg' alt="sym" width="80%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+
 - **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718)
 
   **Yanzhi Wang**, Jie Song\* (2024)
 
   [[PDF](../assets/TIA.pdf)]
+
+</div>
+</div>
 
 - **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song\* (2024)
 
@@ -135,11 +147,15 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 - [Data-Centric Optimization: An End-to-End Strategy for Power Systems]()
 
-  **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (Submitted to *Engineering*)
+  **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (Accepted by *Engineering*)
+
+- [Feature Selection for Battery Lifetime Prediction using Explainable Machine Learning]()
+
+  **Yanzhi Wang**, Jianxiao Wang\*, ..., Jie Song\* (Accepted by *IEEE Transactions on Industry Applications*)
 
 - [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection]()
 
-   YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (In Revision for *IEEE Transactions on Industrial Informatics*)
+   YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (Submitted to *CSEE Jornal of Power and Energy Systems*)
 
 # 🎖 Honors and Awards
 - *2024.10* The Youth Talent Support Program of the China Association for Science and Technology (Doctoral Program) 
