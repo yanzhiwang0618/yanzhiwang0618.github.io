@@ -151,7 +151,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 - [Feature Selection for Battery Lifetime Prediction using Explainable Machine Learning]()
 
-  **Yanzhi Wang**, Jianxiao Wang\*, ..., Jie Song\* (Accepted by *IEEE Transactions on Industry Applications*)
+  **Yanzhi Wang**, Jianxiao Wang\*, et al. (Accepted by *IEEE Transactions on Industry Applications*)
 
 - [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection]()
 
