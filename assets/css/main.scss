@@ -108,5 +108,6 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 body {
-  line-height: 1.7; /* You can change this value. e.g., 1.6 or 1.8 */
+  font-size: 18px;    /* New: Adjust the base font size */
+  line-height: 1.8;   /* Updated: Further increased line spacing */
 }
