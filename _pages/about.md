@@ -55,7 +55,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
   </div>
 <div class='paper-box-text' markdown="1">
 
-- **[Nexus]** [Data-Centric Optimization: An End-to-End Strategy for Power Systems](https://www.sciencedirect.com/science/article/pii/S2095809925006095)
+- **[Engineering]** [Data-Centric Optimization: An End-to-End Strategy for Power Systems](https://www.sciencedirect.com/science/article/pii/S2095809925006095)
 
   **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (2025)
 
@@ -75,7 +75,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
   </div>
 <div class='paper-box-text' markdown="1">
 
-- **[Nexus]** [Feature Selection for Battery Lifetime Prediction using Explainable Machine Learning](https://ieeexplore.ieee.org/abstract/document/11194100)
+- **[IEEE Transactions on Industry Applications]** [Feature Selection for Battery Lifetime Prediction using Explainable Machine Learning](https://ieeexplore.ieee.org/abstract/document/11194100)
 
   **Yanzhi Wang**, Jianxiao Wang\*, Xi Chen, Yishen Wang, Jie Song (2025)
 
