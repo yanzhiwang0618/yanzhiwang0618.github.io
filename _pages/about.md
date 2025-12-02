@@ -24,10 +24,9 @@ redirect_from:
   /* 4. 增大左侧头像 [新增部分] */
   .author__avatar img {
     /* 默认模版通常限制在 150px 左右。修改下面的数值来调整大小。*/
-    max-width: 220px !important;  /* 尝试设置为 220px，如果觉得不够大可以改成 250px 等 */
+    max-width: 280px !important;  /* 尝试设置为 220px，如果觉得不够大可以改成 250px 等 */
     width: 100% !important;       /* 确保图片宽度撑满容器 */
     height: auto !important;      /* 保持图片比例不变 */
-    border-radius: 50% !important; /* 如果你想要圆形的头像，保留这一行；如果想要方形，删掉这一行 */
   }
   
 </style>
