@@ -212,7 +212,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
    YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (Under Review in *CSEE Jornal of Power and Energy Systems*)
 
-
+<span id="-honors-and-awards"></span>
 # Honors and Awards
 - *2025.09* National Scholarship
 - *2025.05* Presidential Scholarship (Peking University)
@@ -222,6 +222,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 - *2024.05* Academic Rising Star (One of 5 recipients selected college-wide)
 - *2022.01* Outstanding Undergraduate Research Award (College level)
 
+<span id="-skills"></span>
 # Skills
 - Programming: *Python*,  *MATLAB*, *R*.
 - Academic Training: *Advanced Theory of Probability*, *Advanced Operations Research*, *Optimization Methods in Machine Learning*, *Reinforcement Learning*, *Distributed Optimization*, *Design and Analysis of Algorithms*, *Carbon Neutrality and Energy Internet*, etc.
