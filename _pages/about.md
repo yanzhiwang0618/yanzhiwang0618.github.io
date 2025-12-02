@@ -21,11 +21,6 @@ redirect_from:
     border-bottom: 1px solid #eaeaea; /* 可选：加一条淡淡的分割线，看着更整齐 */
   }
   
-  /* 特殊处理：让第一个标题 (About me) 上面不要空太多 */
-  h1:first-of-type {
-    margin-top: 10px !important;
-  }
-  
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -49,6 +44,43 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 <span id="publications-article"></span>
 # Publications (Article)
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="display: flex">
+    <div>
+      <img src='images/ENG.png' alt="sym" width="80%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+- **[Nexus]** [Data-Centric Optimization: An End-to-End Strategy for Power Systems](https://www.sciencedirect.com/science/article/pii/S2095809925006095)
+
+  **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (2025)
+
+  [[PDF](../assets/ENG.pdf)]
+
+- Proposed DCOpt, a framework valuing features by their economic impact in end-to-end optimization.
+- Developed a rolling-horizon algorithm that reduces decision costs by 8.9% in OOD scenarios.
+- Demonstrated that curating high-value features outperforms increasing data quantity using ISO-NE data.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="display: flex">
+    <div>
+      <img src='images/TIA_2025.png' alt="sym" width="80%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+- **[Nexus]** [Feature Selection for Battery Lifetime Prediction using Explainable Machine Learning](https://ieeexplore.ieee.org/abstract/document/11194100)
+
+  **Yanzhi Wang**, Jianxiao Wang\*, Xi Chen, Yishen Wang, Jie Song (2025)
+
+  [[PDF](../assets/TIA2025.pdf)]
+
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
