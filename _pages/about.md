@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  body, h1, h2, h3, h4, h5, h6, p, div, span, li, a, table, .page__content {
+    font-family: "Times New Roman", "Times", serif !important;
+  }
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -23,12 +29,12 @@ I'm **Yanzhi Wang (王衍之)**, a third year PHD student at the [College of Eng
 
 I am actively seeking academic exchanges for next year. You can find my CV here: [[PDF](../assets/Resumey-1.pdf)]
 
-# 🔥 News
+# News
 - *2025.2*: &nbsp;🛩️🛩️ Heading to Princeton as a VSCR this autumn!
 - *2024.10*: &nbsp;🛩️🛩️ Going to Seattle for INFORMS 2024!
 
 <span id="publications-article"></span>
-# 📝 Publications (Article)
+# Publications (Article)
 
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
@@ -143,7 +149,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
   [[PDF](../assets/CASE.pdf)]
 
-# 📝 Manuscripts under submission 
+# Manuscripts under submission 
 
 - [Data-Centric Optimization: An End-to-End Strategy for Power Systems]()
 
@@ -157,25 +163,27 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
    YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (Submitted to *CSEE Jornal of Power and Energy Systems*)
 
-# 🎖 Honors and Awards
+# Honors and Awards
+- *2025.09* National Scholarship
+- *2025.05* Presidential Scholarship (Peking University)
 - *2024.10* The Youth Talent Support Program of the China Association for Science and Technology (Doctoral Program) 
 - *2024.09* National Scholarship
 - *2024.06* Wei-Ming PhD Scholars (One of 13 recipients selected university-wide)
 - *2024.05* Academic Rising Star (One of 5 recipients selected college-wide)
 - *2022.01* Outstanding Undergraduate Research Award (College level)
 
-# 📖 Educations
+# Educations
 - *2022.09 - now*, **Ph.D. in Industrial and Systems Engineering** (*GPA=3.75*), College of Engineering, Peking University, Beijing, China.
 - *2019.09 - 2022.07*, **B.E. in Economics**, National School of Development, Peking University, Beijing, China.
 - *2018.09 - 2022.07*, **B.E. in Theoretical and Applied Mechanics** (*GPA=3.62*), College of Engineering, Peking University, Beijing, China.
 - *2015.06 - 2018.07*, RDFZ, Beijing, China.
 
-# 🧩 Skills
+# Skills
 - Programming: *Python*,  *MATLAB*, *R*.
 - Academic Training: *Advanced Theory of Probability*, *Advanced Operations Research*, *Optimization Methods in Machine Learning*, *Reinforcement Learning*, *Distributed Optimization*, *Design and Analysis of Algorithms*, *Carbon Neutrality and Energy Internet*, etc.
   
-# 💬 Invited Talks
+# Invited Talks
 - *2022.04*, Physician word-of-mouth ratings in complex models, 2022 International Conference for Chinese Scholars in Industrial Engineering
   
-# 💻 Internships
+# Internships
 - *2022.07 - 2022.08*, [Beijing International Big Data Exchange](), China.
