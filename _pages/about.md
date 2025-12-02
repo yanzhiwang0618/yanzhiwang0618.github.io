@@ -32,7 +32,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Yanzhi Wang (王衍之)**, a third year PHD student at the [College of Engineering](https://www.coe.pku.edu.cn), [Peking University](https://www.pku.edu.cn), fortunate to be advised by [Prof. Jie Song](https://www.coe.pku.edu.cn/teaching/industrial/9972.html)([Google Scholar]()) and [Prof. Jianxiao Wang](http://bda.pku.edu.cn/info/1082/2535.htm)([Google Scholar](https://scholar.google.com/citations?user=fmmLFTUAAAAJ&hl=en&oi=ao)). My research interests include **data centric AI**, **data-driven optimization**, **energy systems** and **uncertainty estimation**. You can find my [Google Scholar](https://scholar.google.com/citations?user=ohvS_NAAAAAJ&hl=en) profile here.
+I'm **Yanzhi Wang (王衍之)**, a third year PHD student at the [College of Engineering](https://www.coe.pku.edu.cn), [Peking University](https://www.pku.edu.cn), fortunate to be advised by [Prof. Jie Song](https://www.coe.pku.edu.cn/teaching/industrial/9972.html)([Google Scholar]()) and [Prof. Jianxiao Wang](http://bda.pku.edu.cn/info/1082/2535.htm)([Google Scholar](https://scholar.google.com/citations?user=fmmLFTUAAAAJ&hl=en&oi=ao)). 
+Before that, I get my banchelor degree in Sience and Economic in Peking University.
+My research interests include **data centric AI**, **data-driven optimization**, **energy systems** and **uncertainty estimation**. You can find my [Google Scholar](https://scholar.google.com/citations?user=ohvS_NAAAAAJ&hl=en) profile here.
 
 **Recently, my research centers on advancing the interpretability of data science within energy systems.**  I am particularly interested in leveraging AI and data-driven methodologies to implement end-to-end optimization. My current work emphasizes enhancing the reliability and efficiency of energy systems under uncertainty through data-centric decision-making.
 
@@ -197,17 +199,14 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
 # Manuscripts under submission 
 
-- [Data-Centric Optimization: An End-to-End Strategy for Power Systems]()
+- [AI-Powered Data Valuation for Robust Financial Modelling]()
 
-  **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (Accepted by *Engineering*)
-
-- [Feature Selection for Battery Lifetime Prediction using Explainable Machine Learning]()
-
-  **Yanzhi Wang**, Jianxiao Wang\*, et al. (Accepted by *IEEE Transactions on Industry Applications*)
+   **Yanzhi Wang**, Jianxiao Wang, Yaqin Hu, Jie Song, Xiaofei Zhao. (In Submission)
 
 - [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection]()
 
-   YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (Submitted to *CSEE Jornal of Power and Energy Systems*)
+   YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (Under Review in *CSEE Jornal of Power and Energy Systems*)
+
 
 # Honors and Awards
 - *2025.09* National Scholarship
@@ -218,18 +217,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 - *2024.05* Academic Rising Star (One of 5 recipients selected college-wide)
 - *2022.01* Outstanding Undergraduate Research Award (College level)
 
-# Educations
-- *2022.09 - now*, **Ph.D. in Industrial and Systems Engineering** (*GPA=3.75*), College of Engineering, Peking University, Beijing, China.
-- *2019.09 - 2022.07*, **B.E. in Economics**, National School of Development, Peking University, Beijing, China.
-- *2018.09 - 2022.07*, **B.E. in Theoretical and Applied Mechanics** (*GPA=3.62*), College of Engineering, Peking University, Beijing, China.
-- *2015.06 - 2018.07*, RDFZ, Beijing, China.
-
 # Skills
 - Programming: *Python*,  *MATLAB*, *R*.
 - Academic Training: *Advanced Theory of Probability*, *Advanced Operations Research*, *Optimization Methods in Machine Learning*, *Reinforcement Learning*, *Distributed Optimization*, *Design and Analysis of Algorithms*, *Carbon Neutrality and Energy Internet*, etc.
-  
-# Invited Talks
-- *2022.04*, Physician word-of-mouth ratings in complex models, 2022 International Conference for Chinese Scholars in Industrial Engineering
-  
-# Internships
-- *2022.07 - 2022.08*, [Beijing International Big Data Exchange](), China.
+
