@@ -91,7 +91,7 @@ You can find my CV here: [[PDF](../assets/Resumey-1.pdf)]
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
     <div>
-      <img src='images/Nexus_1.png' alt="sym" width="80%">
+      <img src='images/Nexus_3.jpg' alt="sym" width="80%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
