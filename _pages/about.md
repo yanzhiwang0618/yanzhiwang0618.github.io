@@ -40,10 +40,6 @@ My research interests include **data centric AI**, **data-driven optimization**,
 
 I am actively seeking academic exchanges for next year. You can find my CV here: [[PDF](../assets/Resumey-1.pdf)]
 
-# News
-- *2025.2*: &nbsp;🛩️🛩️ Heading to Princeton as a VSCR this autumn!
-- *2024.10*: &nbsp;🛩️🛩️ Going to Seattle for INFORMS 2024!
-
 <span id="publications-article"></span>
 # Publications (Article)
 
