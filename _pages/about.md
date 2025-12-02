@@ -33,7 +33,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm **Yanzhi Wang (王衍之)**, a third year PHD student at the [College of Engineering](https://www.coe.pku.edu.cn), [Peking University](https://www.pku.edu.cn), fortunate to be advised by [Prof. Jie Song](https://www.coe.pku.edu.cn/teaching/industrial/9972.html)([Google Scholar]()) and [Prof. Jianxiao Wang](http://bda.pku.edu.cn/info/1082/2535.htm)([Google Scholar](https://scholar.google.com/citations?user=fmmLFTUAAAAJ&hl=en&oi=ao)). 
-Before that, I get my banchelor degree in Sience and Economic in Peking University.
+Prior to this, I received my Bachelor's degrees in Science and Economics from Peking University.
 My research interests include **data centric AI**, **data-driven optimization**, **energy systems** and **uncertainty estimation**. You can find my [Google Scholar](https://scholar.google.com/citations?user=ohvS_NAAAAAJ&hl=en) profile here.
 
 **Recently, my research centers on advancing the interpretability of data science within energy systems.**  I am particularly interested in leveraging AI and data-driven methodologies to implement end-to-end optimization. My current work emphasizes enhancing the reliability and efficiency of energy systems under uncertainty through data-centric decision-making.
