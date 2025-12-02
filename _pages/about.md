@@ -12,6 +12,20 @@ redirect_from:
   body, h1, h2, h3, h4, h5, h6, p, div, span, li, a, table, .page__content {
     font-family: "Times New Roman", "Times", serif !important;
   }
+
+  /* 2. 增加 # 标题的间距 */
+  h1 {
+    margin-top: 80px !important;    /* 这里控制标题与上一段内容的距离 (数值越大距离越大) */
+    margin-bottom: 40px !important; /* 这里控制标题与下方正文的距离 */
+    padding-bottom: 10px !important; /* 可选：给标题下方加一点点内部留白 */
+    border-bottom: 1px solid #eaeaea; /* 可选：加一条淡淡的分割线，看着更整齐 */
+  }
+  
+  /* 特殊处理：让第一个标题 (About me) 上面不要空太多 */
+  h1:first-of-type {
+    margin-top: 10px !important;
+  }
+  
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -124,7 +138,7 @@ I am actively seeking academic exchanges for next year. You can find my CV here:
 
   [[PDF](../assets/需求预测视角下的医疗数据价值——基于沙普利值方法_赵越.pdf)]
 
-# 📝 Publications (Conference)
+# Publications (Conference)
 
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
