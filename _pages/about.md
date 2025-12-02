@@ -16,7 +16,7 @@ redirect_from:
   /* 2. 增加 # 标题的间距 */
   h1 {
     margin-top: 80px !important;    /* 这里控制标题与上一段内容的距离 (数值越大距离越大) */
-    margin-bottom: 20px !important; /* 这里控制标题与下方正文的距离 */
+    margin-bottom: 10px !important; /* 这里控制标题与下方正文的距离 */
     padding-bottom: 10px !important; /* 可选：给标题下方加一点点内部留白 */
     border-bottom: 1px solid #eaeaea; /* 可选：加一条淡淡的分割线，看着更整齐 */
   }
