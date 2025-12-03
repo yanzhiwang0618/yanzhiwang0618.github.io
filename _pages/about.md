@@ -10,7 +10,8 @@ redirect_from:
 
 <style>
   body, h1, h2, h3, h4, h5, h6, p, div, span, li, a, table, .page__content {
-    font-family: "Times New Roman", "Times", serif !important;
+    /* font-family: "Times New Roman", "Times", serif !important; */
+    font-family: Arial, Helvetica, sans-serif !important;
   }
 
   /* 2. 增加 # 标题的间距 */
