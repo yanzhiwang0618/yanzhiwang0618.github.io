@@ -57,6 +57,10 @@ You can find my CV here: [[PDF](../assets/Resumey-1.pdf)]
 
    **Yanzhi Wang**, Jianxiao Wang, Yaqin Hu, Jie Song, Xiaofei Zhao. (Undergoing Major Revision at *Management Science*)
 
+- [Data-value Dynamics in Federated Learning]()
+
+   **Yanzhi Wang**, Su Wang, Jianxiao Wang, H.Vincent Poor, Jie Song. (Under Submission)
+
 # Journal Articles
 
 <div class='paper-box'>
