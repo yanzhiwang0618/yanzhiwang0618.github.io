@@ -57,10 +57,6 @@ You can find my CV here: [[PDF](../assets/Resumey-1.pdf)]
 
    **Yanzhi Wang**, Jianxiao Wang, Yaqin Hu, Jie Song, Xiaofei Zhao. (Undergoing Major Revision at *Management Science*)
 
-- [Condensed Data Acquisition for Non-Intrusive Load Monitoring via Household Selection]()
-
-   YiHang Jin, **Yanzhi Wang**, Jianxiao Wang\*, et al. (In Submission)
-
 # Journal Articles
 
 <div class='paper-box'>
