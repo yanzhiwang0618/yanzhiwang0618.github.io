@@ -73,7 +73,7 @@ You can find my CV here: [[PDF](../assets/Resumey-1.pdf)]
 
 - **[Engineering]** [Data-Centric Optimization: An End-to-End Strategy for Power Systems](https://www.sciencedirect.com/science/article/pii/S2095809925006095)
 
-  **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (2025)
+  **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (2026)
 
   [[PDF](../assets/ENG.pdf)]
 
@@ -93,7 +93,7 @@ You can find my CV here: [[PDF](../assets/Resumey-1.pdf)]
 
 - **[IEEE Transactions on Industry Applications]** [Feature Selection for Battery Lifetime Prediction using Explainable Machine Learning](https://ieeexplore.ieee.org/abstract/document/11194100)
 
-  **Yanzhi Wang**, Jianxiao Wang\*, Xi Chen, Yishen Wang, Jie Song (2025)
+  **Yanzhi Wang**, Jianxiao Wang\*, Xi Chen, Yishen Wang, Jie Song (2026)
 
   [[PDF](../assets/TIA2025.pdf)]
 
