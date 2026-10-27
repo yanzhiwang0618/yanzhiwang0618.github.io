@@ -47,7 +47,9 @@ My research interests include **data centric AI**, **data-driven optimization**,
 
 **Recently, my research centers on advancing the interpretability of data science within energy systems.**  I am particularly interested in leveraging AI and data-driven methodologies to implement end-to-end optimization. My current work emphasizes enhancing the reliability and efficiency of energy systems under uncertainty through data-centric decision-making.
 
-You can find my CV here: [[PDF](../assets/Yanzhi_Wang_CV (1).pdf)]
+**I am currently seeking postdoctoral opportunities starting in fall 2027.**
+
+You can find my CV here: [[PDF](../assets/Yanzhi_Wang_CV.pdf)]
 
 <span id="publications-article"></span>
 
