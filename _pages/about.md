@@ -41,15 +41,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Yanzhi Wang (王衍之)**, a final-year PHD student at the [School of Advanced Manufacturing and Robotics](https://amr.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), fortunate to be advised by [Prof. Jie Song](https://www.coe.pku.edu.cn/teaching/industrial/9972.html) and [Prof. Jianxiao Wang](https://scholar.google.com/citations?user=fmmLFTUAAAAJ&hl=en&oi=ao). 
-Prior to this, I received my Bachelor's degrees in Science and Economics from Peking University.
-My research interests include **data centric AI**, **data-driven optimization**, **energy systems** and **uncertainty estimation**. You can find my [Google Scholar](https://scholar.google.com/citations?user=ohvS_NAAAAAJ&hl=en) profile here.
+I'm **Yanzhi Wang (王衍之)**, a final-year PhD student at the [School of Advanced Manufacturing and Robotics](https://amr.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), advised by [Prof. Jie Song](https://www.coe.pku.edu.cn/teaching/industrial/9972.html) and [Prof. Jianxiao Wang](https://scholar.google.com/citations?user=fmmLFTUAAAAJ&hl=en&oi=ao). 
+I received my bachelor's degrees in science and economics from Peking University.
 
-**Recently, my research centers on advancing the interpretability of data science within energy systems.**  I am particularly interested in leveraging AI and data-driven methodologies to implement end-to-end optimization. My current work emphasizes enhancing the reliability and efficiency of energy systems under uncertainty through data-centric decision-making.
+My research focuses on **data-centric optimization**: improving learning and decision-making under uncertainty through better data use. 
+I develop data valuation methods that assess data contributions for a given model and task, guiding sample selection, weighting, and feature prioritization, with applications to power and other complex systems.
 
 **I am currently seeking postdoctoral opportunities starting in fall 2027.**
 
-You can find my CV here: [[PDF](../assets/Yanzhi_Wang_CV.pdf)]
+You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
 
 <span id="publications-article"></span>
 
