@@ -53,15 +53,15 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
 
 <span id="publications-article"></span>
 
-# Working Paper 
+# Working Papers 
 
 - AI-Powered Data Valuation for Robust Financial Modelling
 
    **Yanzhi Wang**, Jianxiao Wang, Yaqin Hu, Jie Song, Xiaofei Zhao. (Undergoing Major Revision at *Management Science*)
 
-- Data-value Dynamics in Federated Learning
+- Data-Value Consensus in Federated Learning
 
-   **Yanzhi Wang**, Su Wang, Jianxiao Wang, H.Vincent Poor, Jie Song. (Under Submission)
+   **Yanzhi Wang**, Su Wang, Jianxiao Wang, H. Vincent Poor, Jie Song. (Under Submission)
 
 # Journal Articles
 
@@ -75,7 +75,7 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
 
 - **[Engineering]** [Data-Centric Optimization: An End-to-End Strategy for Power Systems](https://www.sciencedirect.com/science/article/pii/S2095809925006095)
 
-  **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (2026)
+  **Yanzhi Wang**, Jianxiao Wang\*, Jie Song\* (advance online publication)
 
   [[PDF](../assets/ENG.pdf)]
 
@@ -151,6 +151,15 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
   </div>
 <div class='paper-box-text' markdown="1">
 
+- **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718)
+
+  **Yanzhi Wang**, Jie Song\* (2025)
+
+  [[PDF](../assets/TIA.pdf)]
+
+</div>
+</div>
+
 - **[Patterns]**[Unveiling Value Patterns via Deep Reinforcement Learning in Heterogeneous Data Analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
 
 **Yanzhi Wang**, Jianxiao Wang\*, Feng Gao, Jie Song\* (2024)
@@ -172,16 +181,6 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
   </div>
 <div class='paper-box-text' markdown="1">
 
-
-- **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718)
-
-  **Yanzhi Wang**, Jie Song\* (2024)
-
-  [[PDF](../assets/TIA.pdf)]
-
-</div>
-</div>
-
 - **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song\* (2024)
 
   [[PDF]](../assets/数据要素流通与收益分配机制...以风电场景融合气象数据为例_王衍之.pdf)
@@ -200,7 +199,7 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
   </div>
 <div class='paper-box-text' markdown="1">
 
-- **[IAS 2024]** [Feature Valuation Toward Improved State Estimation for Automotive Lithium-ion Battery]()
+- **[IAS 2024]** [Feature Valuation Toward Improved State Estimation for Automotive Lithium-ion Battery](https://ieeexplore.ieee.org/abstract/document/11023788)
 
   **Yanzhi Wang**, Jianxiao Wang*, Jie Song
 
@@ -217,13 +216,14 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
 
 <span id="-honors-and-awards"></span>
 # Honors and Awards
+- *2026.09* National Scholarship
 - *2025.09* National Scholarship
 - *2025.05* Presidential Scholarship (Peking University)
-- *2024.10* The Youth Talent Support Program of the China Association for Science and Technology (Doctoral Program) 
+- *2024.10* Youth Talent Support Program for Doctoral Students, China Association for Science and Technology
 - *2024.09* National Scholarship
-- *2024.06* Wei-Ming PhD Scholars (One of 13 recipients selected university-wide)
+- *2024.06* Wei-Ming PhD Scholars Program (One of 13 recipients selected university-wide)
 - *2024.05* Academic Rising Star (One of 5 recipients selected college-wide)
-- *2022.01* Outstanding Undergraduate Research Award (College level)
+- *2022.01* Outstanding Undergraduate Research Award (College of Engineering, Peking University)
 
 <span id="-skills"></span>
 # Skills
