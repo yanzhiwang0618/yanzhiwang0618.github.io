@@ -145,11 +145,10 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
     <div>
-      <img src='images/Patterns_cover.png' alt="sym" width="40%">
-      <img src='images/Patterns_GA.png' alt="sym" width="55%">
+      <img src='images/figure_1.jpg' alt="sym" width="80%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1">
 
 - **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718)
 
@@ -157,33 +156,35 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
 
   [[PDF](../assets/TIA.pdf)]
 
-</div>
-</div>
-
-- **[Patterns]**[Unveiling Value Patterns via Deep Reinforcement Learning in Heterogeneous Data Analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
-
-**Yanzhi Wang**, Jianxiao Wang\*, Feng Gao, Jie Song\* (2024)
-
-[[PDF](../assets/Patterns-paper.pdf)]
-
-- We introduce a learning-based paradigm for data valuation across scenarios.
-- Our study identifies varying effects of high/low-quality data on model efficacy.
-- This method explores inherent and transferable value patterns across datasets.
-- Analysis reveals data value’s geographic sensitivity in nationwide power forecasts.
-</div>
+  </div>
 </div>
 
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex">
     <div>
-      <img src='images/figure_1.jpg' alt="sym" width="80%">
+      <img src='images/Patterns_cover.png' alt="sym" width="40%">
+      <img src='images/Patterns_GA.png' alt="sym" width="55%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1">
+
+- **[Patterns]** [Unveiling Value Patterns via Deep Reinforcement Learning in Heterogeneous Data Analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
+
+  **Yanzhi Wang**, Jianxiao Wang\*, Feng Gao, Jie Song\* (2024)
+
+  [[PDF](../assets/Patterns-paper.pdf)]
+
+- We introduce a learning-based paradigm for data valuation across scenarios.
+- Our study identifies varying effects of high/low-quality data on model efficacy.
+- This method explores inherent and transferable value patterns across datasets.
+- Analysis reveals data value’s geographic sensitivity in nationwide power forecasts.
+
+  </div>
+</div>
 
 - **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song\* (2024)
 
-  [[PDF]](../assets/数据要素流通与收益分配机制...以风电场景融合气象数据为例_王衍之.pdf)
+  [[PDF](../assets/数据要素流通与收益分配机制...以风电场景融合气象数据为例_王衍之.pdf)]
 
 - **[Chinese Journal of Management Science (In Chinese)]** [Research on Data Value Based on Demand Forecast of Online Medical Platform](http://www.zgglkx.com/CN/10.16381/j.cnki.issn1003-207x.2022.0562), Zhao Yue, **Yanzhi Wang**, Jingsi Huang, Jie Song\*, Xuan He (2024)
 
