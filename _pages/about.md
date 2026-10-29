@@ -148,7 +148,7 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
       <img src='images/figure_1.jpg' alt="sym" width="80%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
 
 - **[IEEE Transactions on Industry Applications]** [Dissecting Renewable Uncertainty via Deconstructive Analysis-Based Data Valuation](https://ieeexplore.ieee.org/abstract/document/10488718)
 
@@ -156,7 +156,7 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
 
   [[PDF](../assets/TIA.pdf)]
 
-  </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -164,9 +164,9 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
     <div>
       <img src='images/Patterns_cover.png' alt="sym" width="40%">
       <img src='images/Patterns_GA.png' alt="sym" width="55%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
 
 - **[Patterns]** [Unveiling Value Patterns via Deep Reinforcement Learning in Heterogeneous Data Analytics (Cover of the May 2024 Issue)](https://www.cell.com/patterns/fulltext/S2666-3899(24)00073-4)
 
@@ -179,7 +179,7 @@ You can find my CV here: [PDF](../assets/Yanzhi_Wang_CV.pdf)
 - This method explores inherent and transferable value patterns across datasets.
 - Analysis reveals data value’s geographic sensitivity in nationwide power forecasts.
 
-  </div>
+</div>
 </div>
 
 - **[Management Review (In Chinese)]** [Research on the Circulation and Revenue Sharing Mechanisms of Data Elements: An Example of Integrating Meteorological Data in Wind Power Scenarios](http://123.57.61.11/jweb_glpl/CN/abstract/abstract3018.shtml), **Yanzhi Wang**, Jingsi Huang, Jianxiao Wang, Feng Gao, Jie Song\* (2024)
